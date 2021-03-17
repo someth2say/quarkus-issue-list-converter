@@ -1,0 +1,4 @@
+base: 
+  mylist: 
+    - element
+    - anotherElement
